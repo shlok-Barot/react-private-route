@@ -1,0 +1,16 @@
+.login-bg-color {
+  background-color: #f9fafb;
+}
+.login-card {
+  margin: 45px 5rem !important;
+  border-radius: 8px !important;
+}
+.signin-btn{
+    border-radius: 6px !important;
+}
+.product_img{
+  width: 70px;
+}
+.product_mdl{
+  width: 250px !important;
+}

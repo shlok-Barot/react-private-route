@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.nav-header .nav {
+  display: flex;
+  list-style: none;
+}
+
+.nav-header .nav .nav-item .nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #007bff;
+  text-decoration: none;
+}
